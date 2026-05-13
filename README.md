@@ -29,4 +29,4 @@ A key highlight of this project is its exceptional performance. Heavily optimize
 * **Deployment:** Vercel
 
 ---
-Built with ❤️ by [Ruth Njoki](https://github.com/Wanjiruth)
+Built  by [Ruth Njoki](https://github.com/Wanjiruth)
